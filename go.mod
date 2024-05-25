@@ -1,3 +1,3 @@
-module GoModulesEd
+module github.com/Ololo356/goModEd
 
-go 1.21
+go 1.21.3
